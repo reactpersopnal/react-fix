@@ -1,0 +1,23 @@
+{
+  "name": "react-fix",
+  "version": "1.0.0",
+  "description": "I would like to try to solve some issues about react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactpersopnal/react-fix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reactpersopnal/react-fix/issues"
+  },
+  "homepage": "https://github.com/reactpersopnal/react-fix#readme",
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
+  }
+}
